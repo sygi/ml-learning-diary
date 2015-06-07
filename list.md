@@ -1,9 +1,8 @@
 ## List of things to achieve:
 
-* pgm course
+* [pgm course](pgm.md) ![progress89]
 * bayesian methods for hackers ![progress100]
-* [link-to-section](#somethings)
 
-## somethings
 
+[progress89]: http://progressed.io/bar/89
 [progress100]: http://progressed.io/bar/100
