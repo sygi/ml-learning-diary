@@ -1,0 +1,11 @@
+1. the sources of a datastream are matched with variable names
+2. you have to use separate DataStream for monitoring (or use TrainingDataMonitoring)
+3. you cannot have a source unused in a dataset
+4. if you have cost and weights = nan, it means you didn't initialized the weights
+5. to use TrainingDataMonitoring, one must add after_epoch=True
+
+questions:
+1. how to monitor two variables that have the same name?
+2. how to rename data source?
+3. is that (substituting in computation graph) the correct way of using a trained network?
+

@@ -1,0 +1,3 @@
+[submodule "projects/variational-autoencoder"]
+	path = projects/variational-autoencoder
+	url = https://github.com/sygi/variational-autoencoder
