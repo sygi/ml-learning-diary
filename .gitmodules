@@ -1,3 +1,6 @@
 [submodule "projects/variational-autoencoder"]
 	path = projects/variational-autoencoder
 	url = https://github.com/sygi/variational-autoencoder
+[submodule "projects/vocal-synthesis"]
+	path = projects/vocal-synthesis
+	url = git@github.com:sygi/.ml.vocal-synthesis.git
