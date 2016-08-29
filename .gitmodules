@@ -4,3 +4,6 @@
 [submodule "projects/vocal-synthesis"]
 	path = projects/vocal-synthesis
 	url = git@github.com:sygi/.ml.vocal-synthesis.git
+[submodule "blog"]
+	path = blog
+	url = git@github.com:sygi/sygi.github.io.git
