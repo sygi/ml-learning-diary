@@ -9,6 +9,13 @@ title: Personal motivational page
 
 # DONE
 
+## 012017
+- ALI
+- Energy based GANs
+- PixelVAE
+- Video Pixel Networks
+
+
 ## 122016
 - Deconvolution and Checkerboard Artifacts [blog post](http://distill.pub/2016/deconv-checkerboard/)
 
