@@ -22,6 +22,7 @@ title: Personal motivational page
 
 ## 122016
 - Deconvolution and Checkerboard Artifacts [blog post](http://distill.pub/2016/deconv-checkerboard/)
+- Unifying Count-Based Exploration and Intrinsic Motivation
 
 ## 112016
 - Chapters 14-20 of DL book
