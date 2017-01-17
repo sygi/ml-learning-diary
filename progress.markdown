@@ -14,6 +14,10 @@ title: Personal motivational page
 - Energy based GANs
 - PixelVAE
 - Video Pixel Networks
+- Four Experiments in Handwriting with a Neural Network
+- Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning
+- PixelRNN
+- AdaGAN
 
 
 ## 122016
