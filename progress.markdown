@@ -18,6 +18,7 @@ title: Personal motivational page
 - Between MDPs and semi-MDPs: A framework for temporal abstraction in reinforcement learning
 - PixelRNN
 - AdaGAN
+- convLSTM
 
 
 ## 122016
