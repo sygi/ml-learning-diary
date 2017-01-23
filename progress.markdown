@@ -19,6 +19,7 @@ title: Personal motivational page
 - PixelRNN
 - AdaGAN
 - convLSTM
+- Variational Intrinsic Control
 
 
 ## 122016
