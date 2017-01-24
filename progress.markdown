@@ -20,7 +20,8 @@ title: Personal motivational page
 - AdaGAN
 - convLSTM
 - Variational Intrinsic Control
-
+- A dataset and exploration of models for understanding video data through fill-in-the-blank question-answering
+- Decomposing motion and content for natural video sequence prediction
 
 ## 122016
 - Deconvolution and Checkerboard Artifacts [blog post](http://distill.pub/2016/deconv-checkerboard/)
